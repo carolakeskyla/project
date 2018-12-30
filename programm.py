@@ -7,7 +7,8 @@ script, a, b = argv
 
 #sisendina saame String tüüpi väärtused 
 a = int(a)
-b = int(c)
+b = int(b)
+
 
 #defineerime lihtsa liitmisfunktsiooni 
 def fun(a, b):
